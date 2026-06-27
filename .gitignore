@@ -1,1 +1,11 @@
 node_modules/
+src/
+vite.config.js
+tsconfig.json
+README.md
+package.json
+package-lock.json
+index.html
+logAI/dist/
+logAI/public/
+logAI/node_modules/
